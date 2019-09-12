@@ -166,6 +166,7 @@
     <Content Include="Views\Shared\View.cshtml" />
     <Content Include="Views\Shared\aaa.cshtml" />
     <Content Include="Views\Shared\bbc.cshtml" />
+    <Content Include="Views\Shared\bbbbbbbbb.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
